@@ -44,7 +44,7 @@ I am a 4th-semester student at **Politechnika Wrocławska (PWr)**, pursuing my d
 ### 📊 Performance Metrics
 | **GitHub Activities** | **Top Languages** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Patmiko&show_icons=true&theme=transparent&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patmiko&layout=compact&theme=transparent&hide_border=true) |
 
 ---
 
