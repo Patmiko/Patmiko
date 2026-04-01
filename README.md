@@ -4,7 +4,7 @@
 ---
 
 ### 🏛️ Education & Profile
-I am a 4th-semester student at **Politechnika Wrocławska (PWr)**, pursuing my degree in **Applied Computer Science** (English-taught program). My main fields of interest currently are Machine Learning and Backend Development and thus I focus on developing in these areas.
+Elo żelo, I am a 4th-semester student at **Politechnika Wrocławska (PWr)**, pursuing my degree in **Applied Computer Science** (English-taught program). My main fields of interest currently are Machine Learning and Backend Development and thus I focus on developing in these areas.
 
 - 🎓 **Major:** Applied Computer Science
 - ⚙️ **Current Focus:** Backend Architecture & Machine Learning Engineering
