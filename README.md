@@ -4,7 +4,7 @@
 ---
 
 ### 🏛️ Education & Profile
-I am a 4th-semester student at **Politechnika Wrocławska (PWr)**, pursuing my degree in **Applied Computer Science** (English-taught program). My academic and personal projects focus on bridging the gap between scalable backend architecture and intelligent data processing.
+I am a 4th-semester student at **Politechnika Wrocławska (PWr)**, pursuing my degree in **Applied Computer Science** (English-taught program). My main fields of interest currently are Machine Learning and Backend Development and thus I focus on developing in these areas.
 
 - 🎓 **Major:** Applied Computer Science
 - ⚙️ **Current Focus:** Backend Architecture & Machine Learning Engineering
@@ -41,10 +41,9 @@ I am a 4th-semester student at **Politechnika Wrocławska (PWr)**, pursuing my d
 
 ---
 
-### 📊 Performance Metrics
-| **GitHub Activities** | **Top Languages** |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Patmiko&show_icons=true&theme=transparent&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patmiko&layout=compact&theme=transparent&hide_border=true) |
+### 📊 GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patmiko&theme=tokyonight&hide_border=true&v=1)
 
 ---
 
